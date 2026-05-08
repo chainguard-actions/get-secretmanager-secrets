@@ -8,6 +8,8 @@ Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at
 |---------|-----|-----------------|
 | v0.1.0 | [`v0.1.0`](https://github.com/chainguard-actions/get-secretmanager-secrets/tree/v0.1.0) | — |
 | v2.1.1 | [`v2.1.1`](https://github.com/chainguard-actions/get-secretmanager-secrets/tree/v2.1.1) | — |
+| v2.2.0 | [`v2.2.0`](https://github.com/chainguard-actions/get-secretmanager-secrets/tree/v2.2.0) | — |
+| v2.2.5 | [`v2.2.5`](https://github.com/chainguard-actions/get-secretmanager-secrets/tree/v2.2.5) | — |
 
 ## Privacy
 
