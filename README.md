@@ -1,5 +1,8 @@
 # google-github-actions/get-secretmanager-secrets
 
+Get secrets from Google Secret Manager and make their results available as
+output variables.
+
 Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at [https://github.com/google-github-actions/get-secretmanager-secrets](https://github.com/google-github-actions/get-secretmanager-secrets).
 
 ## Versions
