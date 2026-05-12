@@ -1,7 +1,7 @@
 {
   "owner": "google-github-actions",
   "name": "get-secretmanager-secrets",
-  "visibility": "internal",
+  "visibility": "public",
   "description": "Get secrets from Google Secret Manager and make their results available as\noutput variables.",
   "block_publish": false
 }
